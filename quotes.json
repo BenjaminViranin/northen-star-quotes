@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 0,
+    "text": "Eighty percent of success is showing up.",
+    "author": "Woody Allen",
+    "translatedText": "成功の80％が現れています。"
+  },
+  {
+    "id": 1,
+    "text": "Don't ruin the present with the ruined past.",
+    "author": "Ellen Gilchrist",
+    "translatedText": "台無しになった過去で現在を台無しにしないでください。"
+  },
+  {
+    "id": 2,
+    "text": "The energy of the mind is the essence of life.",
+    "author": "Aristotle",
+    "translatedText": "心のエネルギーは人生の本質です。"
+  },
+  {
+    "id": 3,
+    "text": "The only real valuable thing is intuition.",
+    "author": "Albert Einstein",
+    "translatedText": "唯一の本当の貴重なことは直観です。"
+  },
+  {
+    "id": 4,
+    "text": "The smaller the mind the greater the conceit.",
+    "author": "Aesop",
+    "translatedText": "心が小さくなるほど、うぬぼれが大きくなります。"
+  },
+  {
+    "id": 5,
+    "text": "Our passion is our strength.",
+    "author": "Billie Armstrong",
+    "translatedText": "私たちの情熱は私たちの強さです。"
+  },
+  {
+    "id": 6,
+    "text": "Love and friendship exclude each other.",
+    "author": "Jean de La Bruyère",
+    "translatedText": "愛と友情はお互いを除外します。"
+  },
+  {
+    "id": 7,
+    "text": "All things change; nothing perishes.",
+    "author": "Ovid",
+    "translatedText": "すべてが変わります。何も滅びません。"
+  },
+  {
+    "id": 8,
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "translatedText": "愛があるところには人生があります。"
+  },
+  {
+    "id": 9,
+    "text": "Always be smarter than the people who hire you.",
+    "author": "Lena Horne",
+    "translatedText": "あなたを雇う人よりも常に賢くなります。"
+  },
+  {
+    "id": 10,
+    "text": "The more you care, the stronger you can be.",
+    "author": "Jim Rohn",
+    "translatedText": "気になるほど、強くなります。"
+  },
+  {
+    "id": 11,
+    "text": "You'll see it when you believe it.",
+    "author": "Wayne Dyer",
+    "translatedText": "あなたがそれを信じるとき、あなたはそれを見るでしょう。"
+  },
+  {
+    "id": 12,
+    "text": "They can conquer who believe they can.",
+    "author": "Virgil",
+    "translatedText": "彼らは自分ができると信じる人を征服することができます。"
+  },
+  {
+    "id": 13,
+    "text": "Our distrust is very expensive.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "私たちの不信は非常に高価です。"
+  },
+  {
+    "id": 14,
+    "text": "You just can't beat the person who never gives up.",
+    "author": "Babe Ruth",
+    "translatedText": "決してあきらめない人を倒すことはできません。"
+  },
+  {
+    "id": 15,
+    "text": "You always succeed in producing a result.",
+    "author": "Tony Robbins",
+    "translatedText": "あなたは常に結果を生み出すことに成功します。"
+  },
+  {
+    "id": 16,
+    "text": "The greatest remedy for anger is delay.",
+    "author": "Seneca the Younger",
+    "translatedText": "怒りの最大の治療法は遅延です。"
+  },
+  {
+    "id": 17,
+    "text": "Do all things with love.",
+    "author": "Og Mandino",
+    "translatedText": "愛を込めてすべてのことをしてください。"
+  },
+  {
+    "id": 18,
+    "text": "Life is the flower for which love is the honey.",
+    "author": "Victor Hugo",
+    "translatedText": "人生は愛が蜂蜜である花です。"
+  },
+  {
+    "id": 19,
+    "text": "Technology has to be invented or adopted.",
+    "author": "Jared Diamond",
+    "translatedText": "テクノロジーは発明または採用する必要があります。"
+  },
+  {
+    "id": 20,
+    "text": "Pitching is the art of instilling fear.",
+    "author": "Sandy Koufax",
+    "translatedText": "ピッチングは恐怖を植え付ける芸術です。"
+  },
+  {
+    "id": 21,
+    "text": "Quick decisions are unsafe decisions.",
+    "author": "Sophocles",
+    "translatedText": "迅速な決定は安全でない決定です。"
+  },
+  {
+    "id": 22,
+    "text": "Along with success comes a reputation for wisdom.",
+    "author": "Euripides",
+    "translatedText": "成功とともに、知恵の評判があります。"
+  },
+  {
+    "id": 23,
+    "text": "Do something wonderful, people may imitate it.",
+    "author": "Albert Schweitzer",
+    "translatedText": "素晴らしいことをしてください、人々はそれを真似するかもしれません。"
+  },
+  {
+    "id": 24,
+    "text": "You just can't beat the person who never gives up.",
+    "author": "Babe Ruth",
+    "translatedText": "決してあきらめない人を倒すことはできません。"
+  },
+  {
+    "id": 25,
+    "text": "To see things in the seed, that is genius.",
+    "author": "Laozi",
+    "translatedText": "種子の物を見るために、それは天才です。"
+  },
+  {
+    "id": 26,
+    "text": "If I were two-faced, would I be wearing this one?",
+    "author": "Abraham Lincoln",
+    "translatedText": "もし私が二面的だったら、私はこれを着ていますか？"
+  },
+  {
+    "id": 27,
+    "text": "Friendship is essentially a partnership.",
+    "author": "Aristotle",
+    "translatedText": "友情は本質的にパートナーシップです。"
+  },
+  {
+    "id": 28,
+    "text": "To succeed, we must first believe that we can.",
+    "author": "Michael Korda",
+    "translatedText": "成功するためには、最初にできると信じなければなりません。"
+  },
+  {
+    "id": 29,
+    "text": "Meditate … do not delay, lest you later regret it.",
+    "author": "The Buddha",
+    "translatedText": "瞑想してください…遅らせないでください、後で後悔しないようにしてください。"
+  },
+  {
+    "id": 30,
+    "text": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "translatedText": "あなたが想像できるものはすべて本物です。"
+  },
+  {
+    "id": 31,
+    "text": "Joy is the best makeup.",
+    "author": "Anne Lamott",
+    "translatedText": "喜びは最高のメイクです。"
+  },
+  {
+    "id": 32,
+    "text": "Never find fault with the absent.",
+    "author": "Alexander Pope",
+    "translatedText": "欠席に欠陥を見つけることはありません。"
+  },
+  {
+    "id": 33,
+    "text": "Error is discipline through which we advance.",
+    "author": "William Ellery Channing",
+    "translatedText": "エラーは、私たちが前進する規律です。"
+  },
+  {
+    "id": 34,
+    "text": "There is no failure except in no longer trying.",
+    "author": "Elbert Hubbard",
+    "translatedText": "もはや試みないことを除いて、失敗はありません。"
+  },
+  {
+    "id": 35,
+    "text": "If you aren't going all the way, why go at all?",
+    "author": "Joe Namath",
+    "translatedText": "あなたがずっと行かないのなら、なぜまったく行くのですか？"
+  },
+  {
+    "id": 36,
+    "text": "Smile, breathe and go slowly.",
+    "author": "Thích Nhất Hạnh",
+    "translatedText": "微笑んで、呼吸し、ゆっくりと行きます。"
+  },
+  {
+    "id": 37,
+    "text": "Wisdom is found only in truth.",
+    "author": "Johann Wolfgang von Goethe",
+    "translatedText": "知恵は真実にのみ見られます。"
+  },
+  {
+    "id": 38,
+    "text": "Be kind whenever possible. It is always possible.",
+    "author": "Dalai Lama",
+    "translatedText": "可能な限り親切にしてください。常に可能です。"
+  },
+  {
+    "id": 39,
+    "text": "The ballot is stronger than the bullet.",
+    "author": "Abraham Lincoln",
+    "translatedText": "投票は弾丸よりも強いです。"
+  },
+  {
+    "id": 40,
+    "text": "Our passion is our strength.",
+    "author": "Billie Armstrong",
+    "translatedText": "私たちの情熱は私たちの強さです。"
+  },
+  {
+    "id": 41,
+    "text": "If you want a thing done well, do it yourself.",
+    "author": "Napoleon",
+    "translatedText": "あなたがうまくやりたいなら、自分でそれをしてください。"
+  },
+  {
+    "id": 42,
+    "text": "Speak low, if you speak love.",
+    "author": "William Shakespeare",
+    "translatedText": "あなたが愛を話すならば、低く話してください。"
+  },
+  {
+    "id": 43,
+    "text": "I have never been hurt by anything I didn't say.",
+    "author": "Calvin Coolidge",
+    "translatedText": "私が言わなかったことに傷つけられたことはありません。"
+  },
+  {
+    "id": 44,
+    "text": "A friend in power is a friend lost.",
+    "author": "Henry Adams",
+    "translatedText": "権力のある友人は紛失した友達です。"
+  },
+  {
+    "id": 45,
+    "text": "Rare as is true love, true friendship is rarer.",
+    "author": "Jean de La Fontaine",
+    "translatedText": "真の愛と同じようにまれであり、真の友情はより珍しい。"
+  },
+  {
+    "id": 46,
+    "text": "Champions keep playing until they get it right.",
+    "author": "Billie Jean King",
+    "translatedText": "チャンピオンはそれを正しくするまでプレーを続けます。"
+  },
+  {
+    "id": 47,
+    "text": "Technology is teaching us to be human again.",
+    "author": "Simon Mainwaring",
+    "translatedText": "テクノロジーは私たちに再び人間になることを教えています。"
+  },
+  {
+    "id": 48,
+    "text": "Problems are not stop signs, they are guidelines.",
+    "author": "Robert Schuller",
+    "translatedText": "問題はストップサインではなく、ガイドラインです。"
+  },
+  {
+    "id": 49,
+    "text": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "translatedText": "待ってはいけません。時がちょうどいいことはありません。"
+  },
+  {
+    "id": 50,
+    "text": "We are wiser than we know.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "私たちは私たちが知っているよりも賢いです。"
+  },
+  {
+    "id": 51,
+    "text": "All wisdom does not reside in Delhi.",
+    "author": "P. Chidambaram",
+    "translatedText": "すべての知恵はデリーに存在しません。"
+  },
+  {
+    "id": 52,
+    "text": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "translatedText": "あなたを怖がらせる毎日1つのことをしてください。"
+  },
+  {
+    "id": 53,
+    "text": "Success is where preparation and opportunity meet.",
+    "author": "Bobby Unser",
+    "translatedText": "成功は、準備と機会が満たされる場所です。"
+  },
+  {
+    "id": 54,
+    "text": "Great acts are made up of small deeds.",
+    "author": "Laozi",
+    "translatedText": "大きな行為は小さな行為で構成されています。"
+  },
+  {
+    "id": 55,
+    "text": "To lead people walk behind them.",
+    "author": "Laozi",
+    "translatedText": "人々を導くために彼らの後ろを歩く。"
+  },
+  {
+    "id": 56,
+    "text": "The best way out is always through.",
+    "author": "Robert Frost",
+    "translatedText": "最善の方法は常に通り抜けます。"
+  },
+  {
+    "id": 57,
+    "text": "Imagination is the highest kite one can fly.",
+    "author": "Lauren Bacall",
+    "translatedText": "想像力は、飛ぶことができる最高のカイトです。"
+  },
+  {
+    "id": 58,
+    "text": "Life is a progress, and not a station.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "人生は進歩であり、駅ではありません。"
+  },
+  {
+    "id": 59,
+    "text": "Friendship is like money, easier made than kept.",
+    "author": "Samuel Butler",
+    "translatedText": "友情はお金のようなもので、維持されるよりも簡単です。"
+  },
+  {
+    "id": 60,
+    "text": "Wisdom is found only in truth.",
+    "author": "Johann Wolfgang von Goethe",
+    "translatedText": "知恵は真実にのみ見られます。"
+  },
+  {
+    "id": 61,
+    "text": "Much wisdom often goes with fewer words.",
+    "author": "Sophocles",
+    "translatedText": "多くの知恵はしばしばより少ない言葉に当てはまります。"
+  },
+  {
+    "id": 62,
+    "text": "An ounce of emotion is equal to a ton of facts.",
+    "author": "John Junor",
+    "translatedText": "オンスの感情は、たくさんの事実に等しい。"
+  },
+  {
+    "id": 63,
+    "text": "He who is contented is rich.",
+    "author": "Laozi",
+    "translatedText": "満足している人は金持ちです。"
+  },
+  {
+    "id": 64,
+    "text": "Life is just a chance to grow a soul.",
+    "author": "A. Powell Davies",
+    "translatedText": "人生は魂を育てるチャンスです。"
+  },
+  {
+    "id": 65,
+    "text": "Habit, if not resisted, soon becomes necessity.",
+    "author": "Augustine of Hippo",
+    "translatedText": "習慣は、抵抗しなければ、すぐに必要になります。"
+  },
+  {
+    "id": 66,
+    "text": "You give before you get.",
+    "author": "Napoleon Hill",
+    "translatedText": "あなたが得る前にあなたは与える。"
+  },
+  {
+    "id": 67,
+    "text": "Wisdom is the supreme part of happiness.",
+    "author": "Sophocles",
+    "translatedText": "知恵は幸福の最高の部分です。"
+  },
+  {
+    "id": 68,
+    "text": "One today is worth two tomorrows.",
+    "author": "Benjamin Franklin",
+    "translatedText": "今日1つは2つの明日の価値があります。"
+  },
+  {
+    "id": 69,
+    "text": "What you do today can improve all your tomorrows.",
+    "author": "Ralph Marston",
+    "translatedText": "あなたが今日することはあなたのすべての明日を改善することができます。"
+  },
+  {
+    "id": 70,
+    "text": "The smaller the mind the greater the conceit.",
+    "author": "Aesop",
+    "translatedText": "心が小さくなるほど、うぬぼれが大きくなります。"
+  },
+  {
+    "id": 71,
+    "text": "Love and friendship exclude each other.",
+    "author": "Jean de La Bruyère",
+    "translatedText": "愛と友情はお互いを除外します。"
+  },
+  {
+    "id": 72,
+    "text": "Nothing happens unless first we dream.",
+    "author": "Carl Sandburg",
+    "translatedText": "最初に夢を見ない限り、何も起こりません。"
+  },
+  {
+    "id": 73,
+    "text": "Myths which are believed in tend to become true.",
+    "author": "George Orwell",
+    "translatedText": "信じられている神話は真実になる傾向があります。"
+  },
+  {
+    "id": 74,
+    "text": "I will prepare and someday my chance will come.",
+    "author": "Abraham Lincoln",
+    "translatedText": "私は準備し、いつか私のチャンスが来るでしょう。"
+  },
+  {
+    "id": 75,
+    "text": "Friends are the siblings God never gave us.",
+    "author": "Mencius",
+    "translatedText": "友達は神が私たちに与えたことのない兄弟です。"
+  },
+  {
+    "id": 76,
+    "text": "Never complain and never explain.",
+    "author": "Benjamin Disraeli",
+    "translatedText": "文句を言うことはなく、説明しないでください。"
+  },
+  {
+    "id": 77,
+    "text": "The secret of success is constancy to purpose.",
+    "author": "Benjamin Disraeli",
+    "translatedText": "成功の秘密は目的の恒常性です。"
+  },
+  {
+    "id": 78,
+    "text": "What we see depends mainly on what we look for.",
+    "author": "John Lubbock",
+    "translatedText": "私たちが見るものは、主に私たちが探しているものに依存します。"
+  },
+  {
+    "id": 79,
+    "text": "You're never a loser until you quit trying.",
+    "author": "Mike Ditka",
+    "translatedText": "あなたが試してみるのをやめるまで、あなたは決して敗者ではありません。"
+  },
+  {
+    "id": 80,
+    "text": "I will prepare and someday my chance will come.",
+    "author": "Abraham Lincoln",
+    "translatedText": "私は準備し、いつか私のチャンスが来るでしょう。"
+  },
+  {
+    "id": 81,
+    "text": "An ounce of emotion is equal to a ton of facts.",
+    "author": "John Junor",
+    "translatedText": "オンスの感情は、たくさんの事実に等しい。"
+  },
+  {
+    "id": 82,
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "translatedText": "愛があるところには人生があります。"
+  },
+  {
+    "id": 83,
+    "text": "We gain the strength of the temptation we resist.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "私たちは抵抗する誘惑の強さを獲得します。"
+  },
+  {
+    "id": 84,
+    "text": "Nature and books belong to the eyes that see them.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "自然と本は、それらを見る目に属します。"
+  },
+  {
+    "id": 85,
+    "text": "Miracles come in moments. Be ready and willing.",
+    "author": "Wayne Dyer",
+    "translatedText": "奇跡は瞬間に来ます。準備ができて喜んで。"
+  },
+  {
+    "id": 86,
+    "text": "Change in all things is sweet.",
+    "author": "Aristotle",
+    "translatedText": "すべてのものの変化は甘いです。"
+  },
+  {
+    "id": 87,
+    "text": "A friend to all is a friend to none.",
+    "author": "Aristotle",
+    "translatedText": "誰にとっても友人は誰にとっても友達です。"
+  },
+  {
+    "id": 88,
+    "text": "We must not say every mistake is a foolish one.",
+    "author": "Cicero",
+    "translatedText": "すべての間違いが愚かなことだと言ってはなりません。"
+  },
+  {
+    "id": 89,
+    "text": "Time you enjoyed wasting was not wasted.",
+    "author": "John Lennon",
+    "translatedText": "あなたが浪費を楽しんだ時間は無駄ではありませんでした。"
+  },
+  {
+    "id": 90,
+    "text": "He who knows himself is enlightened.",
+    "author": "Laozi",
+    "translatedText": "自分を知っている人は啓発されます。"
+  },
+  {
+    "id": 91,
+    "text": "Every problem has a gift for you in its hands.",
+    "author": "Richard Bach",
+    "translatedText": "すべての問題には、あなたへの贈り物があります。"
+  },
+  {
+    "id": 92,
+    "text": "Marriage: A friendship recognized by the police.",
+    "author": "Robert Louis Stevenson",
+    "translatedText": "結婚：警察によって認められた友情。"
+  },
+  {
+    "id": 93,
+    "text": "Light tomorrow with today!",
+    "author": "Elizabeth Browning",
+    "translatedText": "今日は明日！"
+  },
+  {
+    "id": 94,
+    "text": "If you surrender to the wind, you can ride it.",
+    "author": "Toni Morrison",
+    "translatedText": "風に降伏すれば乗ることができます。"
+  },
+  {
+    "id": 95,
+    "text": "I can, therefore I am.",
+    "author": "Simone Weil",
+    "translatedText": "したがって、私はできます。"
+  },
+  {
+    "id": 96,
+    "text": "Things do not happen. Things are made to happen.",
+    "author": "John F. Kennedy",
+    "translatedText": "物事は起こりません。物事は起こります。"
+  },
+  {
+    "id": 97,
+    "text": "A short saying often contains much wisdom.",
+    "author": "Sophocles",
+    "translatedText": "短いことわざにはしばしば多くの知恵が含まれています。"
+  },
+  {
+    "id": 98,
+    "text": "The wisest men follow their own direction.",
+    "author": "Euripides",
+    "translatedText": "最も賢い男性は自分の方向に従っています。"
+  },
+  {
+    "id": 99,
+    "text": "May all beings have happy minds.",
+    "author": "The Buddha",
+    "translatedText": "すべての存在が幸せな心を持っているように。"
+  },
+  {
+    "id": 100,
+    "text": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "translatedText": "待ってはいけません。時がちょうどいいことはありません。"
+  },
+  {
+    "id": 101,
+    "text": "From wonder into wonder existence opens.",
+    "author": "Laozi",
+    "translatedText": "不思議から不思議への存在への存在が開かれます。"
+  },
+  {
+    "id": 102,
+    "text": "To want to be what one can be is purpose in life.",
+    "author": "Cynthia Ozick",
+    "translatedText": "自分ができることになりたいということは、人生の目的です。"
+  },
+  {
+    "id": 103,
+    "text": "By failing to prepare, you are preparing to fail.",
+    "author": "Benjamin Franklin",
+    "translatedText": "準備に失敗することで、あなたは失敗する準備をしています。"
+  },
+  {
+    "id": 104,
+    "text": "You win the victory when you yield to friends.",
+    "author": "Sophocles",
+    "translatedText": "友達に屈すると勝利を収めます。"
+  },
+  {
+    "id": 105,
+    "text": "Correction does much, but encouragement does more.",
+    "author": "Johann Wolfgang von Goethe",
+    "translatedText": "修正は大いに役立ちますが、励ましはもっと多くなります。"
+  },
+  {
+    "id": 106,
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "translatedText": "愛があるところには人生があります。"
+  },
+  {
+    "id": 107,
+    "text": "The fall of dropping water wears away the Stone.",
+    "author": "Lucretius",
+    "translatedText": "水を落とすことの崩壊は石を使い果たします。"
+  },
+  {
+    "id": 108,
+    "text": "Almost everything comes from nothing.",
+    "author": "Henri-Frédéric Amiel",
+    "translatedText": "ほとんどすべてが何もないからです。"
+  },
+  {
+    "id": 109,
+    "text": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "translatedText": "あなたを怖がらせる毎日1つのことをしてください。"
+  },
+  {
+    "id": 110,
+    "text": "Time is the most valuable thing a man can spend.",
+    "author": "Theophrastus",
+    "translatedText": "時間は、男性が費やすことができる最も価値のあるものです。"
+  },
+  {
+    "id": 111,
+    "text": "Love demands infinitely less than friendship.",
+    "author": "George Jean Nathan",
+    "translatedText": "愛は友情よりもはるかに少ない要求を要求します。"
+  },
+  {
+    "id": 112,
+    "text": "Don't compromise yourself. You are all you've got.",
+    "author": "Janis Joplin",
+    "translatedText": "自分を妥協しないでください。あなたはすべてあなたが持っていることです。"
+  },
+  {
+    "id": 113,
+    "text": "You give before you get.",
+    "author": "Napoleon Hill",
+    "translatedText": "あなたが得る前にあなたは与える。"
+  },
+  {
+    "id": 114,
+    "text": "A prudent question is one half of wisdom.",
+    "author": "Francis Bacon",
+    "translatedText": "賢明な質問は知恵の半分です。"
+  },
+  {
+    "id": 115,
+    "text": "The truest wisdom is a resolute determination.",
+    "author": "Napoleon",
+    "translatedText": "真の知恵は断固とした決意です。"
+  },
+  {
+    "id": 116,
+    "text": "It is easy to be brave from a safe distance.",
+    "author": "Aesop",
+    "translatedText": "安全な距離から勇敢になるのは簡単です。"
+  },
+  {
+    "id": 117,
+    "text": "If opportunity doesn't knock, build a door.",
+    "author": "Milton Berle",
+    "translatedText": "機会がノックしない場合は、ドアを建ててください。"
+  },
+  {
+    "id": 118,
+    "text": "If you want a thing done well, do it yourself.",
+    "author": "Napoleon",
+    "translatedText": "あなたがうまくやりたいなら、自分でそれをしてください。"
+  },
+  {
+    "id": 119,
+    "text": "The only real valuable thing is intuition.",
+    "author": "Albert Einstein",
+    "translatedText": "唯一の本当の貴重なことは直観です。"
+  },
+  {
+    "id": 120,
+    "text": "Freedom is the right to live as we wish.",
+    "author": "Epictetus",
+    "translatedText": "自由は私たちが望むように生きる権利です。"
+  },
+  {
+    "id": 121,
+    "text": "History is written by the victors.",
+    "author": "Winston Churchill",
+    "translatedText": "歴史は勝利者によって書かれています。"
+  },
+  {
+    "id": 122,
+    "text": "Quick decisions are unsafe decisions.",
+    "author": "Sophocles",
+    "translatedText": "迅速な決定は安全でない決定です。"
+  },
+  {
+    "id": 123,
+    "text": "All serious daring starts from within.",
+    "author": "Harriet Beecher Stowe",
+    "translatedText": "すべての深刻な大胆さが内側から始まります。"
+  },
+  {
+    "id": 124,
+    "text": "Let the beauty of what you love be what you do.",
+    "author": "Rumi",
+    "translatedText": "あなたが好きなことの美しさをあなたがしていることにしましょう。"
+  },
+  {
+    "id": 125,
+    "text": "The wisest men follow their own direction.",
+    "author": "Euripides",
+    "translatedText": "最も賢い男性は自分の方向に従っています。"
+  },
+  {
+    "id": 126,
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "translatedText": "先に進む秘密は始めることです。"
+  },
+  {
+    "id": 127,
+    "text": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "translatedText": "待ってはいけません。時がちょうどいいことはありません。"
+  },
+  {
+    "id": 128,
+    "text": "The greatest remedy for anger is delay.",
+    "author": "Seneca the Younger",
+    "translatedText": "怒りの最大の治療法は遅延です。"
+  },
+  {
+    "id": 129,
+    "text": "The cautious seldom err.",
+    "author": "Confucius",
+    "translatedText": "慎重なことはめったにありません。"
+  },
+  {
+    "id": 130,
+    "text": "Quick decisions are unsafe decisions.",
+    "author": "Sophocles",
+    "translatedText": "迅速な決定は安全でない決定です。"
+  },
+  {
+    "id": 131,
+    "text": "I think and that is all that I am.",
+    "author": "Wayne Dyer",
+    "translatedText": "私が思うに、それが私であるすべてです。"
+  },
+  {
+    "id": 132,
+    "text": "There is no failure except in no longer trying.",
+    "author": "Elbert Hubbard",
+    "translatedText": "もはや試みないことを除いて、失敗はありません。"
+  },
+  {
+    "id": 133,
+    "text": "He who hath many friends hath none.",
+    "author": "Aristotle",
+    "translatedText": "多くの友達がいない彼は誰もいません。"
+  },
+  {
+    "id": 134,
+    "text": "The only way to have a friend is to be one.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "友達を持つ唯一の方法は、1人になることです。"
+  },
+  {
+    "id": 135,
+    "text": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "translatedText": "あなたが地獄を経験しているなら、続けてください。"
+  },
+  {
+    "id": 136,
+    "text": "Inspiration exists, but it has to find us working.",
+    "author": "Pablo Picasso",
+    "translatedText": "インスピレーションは存在しますが、私たちが働いていることを見つけなければなりません。"
+  },
+  {
+    "id": 137,
+    "text": "Never, never, never give up.",
+    "author": "Winston Churchill",
+    "translatedText": "決して、決してあきらめないでください。"
+  },
+  {
+    "id": 138,
+    "text": "There is nothing impossible to him who will try.",
+    "author": "Alexander the Great",
+    "translatedText": "彼に試してみることは不可能なことは何もありません。"
+  },
+  {
+    "id": 139,
+    "text": "All I can say about life is, Oh God, enjoy it!",
+    "author": "Bob Newhart",
+    "translatedText": "私が人生について言えるのは、ああ、それを楽しんでください！"
+  },
+  {
+    "id": 140,
+    "text": "They can conquer who believe they can.",
+    "author": "Virgil",
+    "translatedText": "彼らは自分ができると信じる人を征服することができます。"
+  },
+  {
+    "id": 141,
+    "text": "A prudent question is one half of wisdom.",
+    "author": "Francis Bacon",
+    "translatedText": "賢明な質問は知恵の半分です。"
+  },
+  {
+    "id": 142,
+    "text": "Never find fault with the absent.",
+    "author": "Alexander Pope",
+    "translatedText": "欠席に欠陥を見つけることはありません。"
+  },
+  {
+    "id": 143,
+    "text": "Action is eloquence.",
+    "author": "William Shakespeare",
+    "translatedText": "アクションは雄弁です。"
+  },
+  {
+    "id": 144,
+    "text": "There is nothing impossible to him who will try.",
+    "author": "Alexander the Great",
+    "translatedText": "彼に試してみることは不可能なことは何もありません。"
+  },
+  {
+    "id": 145,
+    "text": "The only way to have a friend is to be one.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "友達を持つ唯一の方法は、1人になることです。"
+  },
+  {
+    "id": 146,
+    "text": "You always succeed in producing a result.",
+    "author": "Tony Robbins",
+    "translatedText": "あなたは常に結果を生み出すことに成功します。"
+  },
+  {
+    "id": 147,
+    "text": "You always succeed in producing a result.",
+    "author": "Tony Robbins",
+    "translatedText": "あなたは常に結果を生み出すことに成功します。"
+  },
+  {
+    "id": 148,
+    "text": "You teach best what you most need to learn.",
+    "author": "Richard Bach",
+    "translatedText": "あなたはあなたが最も学ぶ必要があることを最もよく教えます。"
+  },
+  {
+    "id": 149,
+    "text": "Those that know, do. Those that understand, teach.",
+    "author": "Aristotle",
+    "translatedText": "知っている人、そうします。理解している人、教える。"
+  },
+  {
+    "id": 150,
+    "text": "There is nothing impossible to him who will try.",
+    "author": "Alexander the Great",
+    "translatedText": "彼に試してみることは不可能なことは何もありません。"
+  },
+  {
+    "id": 151,
+    "text": "Wise men make more opportunities than they find.",
+    "author": "Francis Bacon",
+    "translatedText": "賢者は、彼らが見つけるよりも多くの機会を作ります。"
+  },
+  {
+    "id": 152,
+    "text": "He who is contented is rich.",
+    "author": "Laozi",
+    "translatedText": "満足している人は金持ちです。"
+  },
+  {
+    "id": 153,
+    "text": "We lost because we told ourselves we lost.",
+    "author": "Leo Tolstoy",
+    "translatedText": "私たちは負けたので、私たちは負けました。"
+  },
+  {
+    "id": 154,
+    "text": "The most certain sign of wisdom is cheerfulness.",
+    "author": "Michel de Montaigne",
+    "translatedText": "知恵の最も確実な兆候は陽気です。"
+  },
+  {
+    "id": 155,
+    "text": "Joy is the best makeup.",
+    "author": "Anne Lamott",
+    "translatedText": "喜びは最高のメイクです。"
+  },
+  {
+    "id": 156,
+    "text": "Wherever you go, go with all your heart.",
+    "author": "Confucius",
+    "translatedText": "どこへ行っても、心から行きます。"
+  },
+  {
+    "id": 157,
+    "text": "The pain passes, but the beauty remains.",
+    "author": "Pierre-Auguste Renoir",
+    "translatedText": "痛みは過ぎますが、美しさは残ります。"
+  },
+  {
+    "id": 158,
+    "text": "The root of suffering is attachment.",
+    "author": "The Buddha",
+    "translatedText": "苦しみの根は愛着です。"
+  },
+  {
+    "id": 159,
+    "text": "When in doubt, don't.",
+    "author": "Benjamin Franklin",
+    "translatedText": "疑わしいときは、しないでください。"
+  },
+  {
+    "id": 160,
+    "text": "Imagination is the highest kite one can fly.",
+    "author": "Lauren Bacall",
+    "translatedText": "想像力は、飛ぶことができる最高のカイトです。"
+  },
+  {
+    "id": 161,
+    "text": "No man was ever wise by chance.",
+    "author": "Seneca the Younger",
+    "translatedText": "偶然賢明な人はいませんでした。"
+  },
+  {
+    "id": 162,
+    "text": "The wisest men follow their own direction.",
+    "author": "Euripides",
+    "translatedText": "最も賢い男性は自分の方向に従っています。"
+  },
+  {
+    "id": 163,
+    "text": "You win the victory when you yield to friends.",
+    "author": "Sophocles",
+    "translatedText": "友達に屈すると勝利を収めます。"
+  },
+  {
+    "id": 164,
+    "text": "Cunning... is but the low mimic of wisdom.",
+    "author": "Plato",
+    "translatedText": "unning ...は、知恵の低い模倣です。"
+  },
+  {
+    "id": 165,
+    "text": "Love is a friendship set to music.",
+    "author": "Joseph Campbell",
+    "translatedText": "愛は音楽の友情です。"
+  },
+  {
+    "id": 166,
+    "text": "Freedom is the right to live as we wish.",
+    "author": "Epictetus",
+    "translatedText": "自由は私たちが望むように生きる権利です。"
+  },
+  {
+    "id": 167,
+    "text": "Who sows virtue reaps honor.",
+    "author": "Leonardo da Vinci",
+    "translatedText": "美徳をwhoした人は名誉を享受します。"
+  },
+  {
+    "id": 168,
+    "text": "You can't choose up sides on a round world.",
+    "author": "Wayne Dyer",
+    "translatedText": "丸い世界の側面を選択することはできません。"
+  },
+  {
+    "id": 169,
+    "text": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "translatedText": "そうしない限り、何も機能しません。"
+  },
+  {
+    "id": 170,
+    "text": "Fears are nothing more than a state of mind.",
+    "author": "Napoleon Hill",
+    "translatedText": "恐れは心の状態にすぎません。"
+  },
+  {
+    "id": 171,
+    "text": "If a man does his best, what else is there?",
+    "author": "George S. Patton",
+    "translatedText": "男がベストを尽くしたら、他に何がありますか？"
+  },
+  {
+    "id": 172,
+    "text": "True friends stab you in the front.",
+    "author": "Oscar Wilde",
+    "translatedText": "真の友達はあなたを正面に刺します。"
+  },
+  {
+    "id": 173,
+    "text": "If a man does his best, what else is there?",
+    "author": "George S. Patton",
+    "translatedText": "男がベストを尽くしたら、他に何がありますか？"
+  },
+  {
+    "id": 174,
+    "text": "Happiness can exist only in acceptance.",
+    "author": "George Orwell",
+    "translatedText": "幸福は受け入れにのみ存在することができます。"
+  },
+  {
+    "id": 175,
+    "text": "The ladder of success is never crowded at the top.",
+    "author": "Napoleon Hill",
+    "translatedText": "成功の梯子は一番上で混雑することはありません。"
+  },
+  {
+    "id": 176,
+    "text": "Be as you wish to seem.",
+    "author": "Socrates",
+    "translatedText": "あなたが見たいとおりに。"
+  },
+  {
+    "id": 177,
+    "text": "You can't choose up sides on a round world.",
+    "author": "Wayne Dyer",
+    "translatedText": "丸い世界の側面を選択することはできません。"
+  },
+  {
+    "id": 178,
+    "text": "Love and friendship exclude each other.",
+    "author": "Jean de La Bruyère",
+    "translatedText": "愛と友情はお互いを除外します。"
+  },
+  {
+    "id": 179,
+    "text": "Wisdom comes alone through suffering.",
+    "author": "Aeschylus",
+    "translatedText": "知恵は苦しみを通して一人で来ます。"
+  },
+  {
+    "id": 180,
+    "text": "One should not hurt others if one loves oneself.",
+    "author": "The Buddha",
+    "translatedText": "自分を愛しているなら、他人を傷つけるべきではありません。"
+  },
+  {
+    "id": 181,
+    "text": "To succeed, we must first believe that we can.",
+    "author": "Michael Korda",
+    "translatedText": "成功するためには、最初にできると信じなければなりません。"
+  },
+  {
+    "id": 182,
+    "text": "When in doubt, don't.",
+    "author": "Benjamin Franklin",
+    "translatedText": "疑わしいときは、しないでください。"
+  },
+  {
+    "id": 183,
+    "text": "Go for it now. The future is promised to no one.",
+    "author": "Wayne Dyer",
+    "translatedText": "今すぐ行きなさい。未来は誰にも約束されていません。"
+  },
+  {
+    "id": 184,
+    "text": "A prudent question is one half of wisdom.",
+    "author": "Francis Bacon",
+    "translatedText": "賢明な質問は知恵の半分です。"
+  },
+  {
+    "id": 185,
+    "text": "Champions keep playing until they get it right.",
+    "author": "Billie Jean King",
+    "translatedText": "チャンピオンはそれを正しくするまでプレーを続けます。"
+  },
+  {
+    "id": 186,
+    "text": "A rolling stone gathers no moss.",
+    "author": "Publilius Syrus",
+    "translatedText": "なだらかな石はコケを集めません。"
+  },
+  {
+    "id": 187,
+    "text": "I owe my solitude to other people.",
+    "author": "Alan Watts",
+    "translatedText": "私は他の人に孤独を負っています。"
+  },
+  {
+    "id": 188,
+    "text": "Your friend is your needs answered.",
+    "author": "Kahlil Gibran",
+    "translatedText": "あなたの友達はあなたのニーズに答えられています。"
+  },
+  {
+    "id": 189,
+    "text": "It is impossible to love and to be wise.",
+    "author": "Francis Bacon",
+    "translatedText": "愛することや賢明であることは不可能です。"
+  },
+  {
+    "id": 190,
+    "text": "Having nothing, nothing can he lose.",
+    "author": "William Shakespeare",
+    "translatedText": "何も持っていない、彼は何も失うことはない。"
+  },
+  {
+    "id": 191,
+    "text": "As you think, so shall you become.",
+    "author": "Bruce Lee",
+    "translatedText": "あなたが考えるように、あなたはそうなります。"
+  },
+  {
+    "id": 192,
+    "text": "Winners never quit and quitters never win.",
+    "author": "Vince Lombardi",
+    "translatedText": "勝者は決してやめず、辞任者は勝ちません。"
+  },
+  {
+    "id": 193,
+    "text": "Character develops itself in the stream of life.",
+    "author": "Johann Wolfgang von Goethe",
+    "translatedText": "キャラクターは生命の流れで発展します。"
+  },
+  {
+    "id": 194,
+    "text": "The ballot is stronger than the bullet.",
+    "author": "Abraham Lincoln",
+    "translatedText": "投票は弾丸よりも強いです。"
+  },
+  {
+    "id": 195,
+    "text": "Music in the soul can be heard by the universe.",
+    "author": "Laozi",
+    "translatedText": "魂の音楽は宇宙によって聞くことができます。"
+  },
+  {
+    "id": 196,
+    "text": "Ideas are the beginning points of all fortunes.",
+    "author": "Napoleon Hill",
+    "translatedText": "アイデアは、すべての財産の始まりのポイントです。"
+  },
+  {
+    "id": 197,
+    "text": "Wisdom begins at the end.",
+    "author": "Daniel Webster",
+    "translatedText": "知恵は最後に始まります。"
+  },
+  {
+    "id": 198,
+    "text": "All is flux; nothing stays still.",
+    "author": "Heraclitus",
+    "translatedText": "すべてが流動的です。まだ残っているものはありません。"
+  },
+  {
+    "id": 199,
+    "text": "The most effective way to do it, is to do it.",
+    "author": "Amelia Earhart",
+    "translatedText": "それを行う最も効果的な方法は、それを行うことです。"
+  },
+  {
+    "id": 200,
+    "text": "You're never a loser until you quit trying.",
+    "author": "Mike Ditka",
+    "translatedText": "あなたが試してみるのをやめるまで、あなたは決して敗者ではありません。"
+  },
+  {
+    "id": 201,
+    "text": "Fortune favors the brave.",
+    "author": "Virgil",
+    "translatedText": "フォーチュンは勇敢な人を支持します。"
+  },
+  {
+    "id": 202,
+    "text": "Life is the flower for which love is the honey.",
+    "author": "Victor Hugo",
+    "translatedText": "人生は愛が蜂蜜である花です。"
+  },
+  {
+    "id": 203,
+    "text": "God always takes the simplest way.",
+    "author": "Albert Einstein",
+    "translatedText": "神は常に最も簡単な方法を取ります。"
+  },
+  {
+    "id": 204,
+    "text": "The only way to have a friend is to be one.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "友達を持つ唯一の方法は、1人になることです。"
+  },
+  {
+    "id": 205,
+    "text": "If you surrender to the wind, you can ride it.",
+    "author": "Toni Morrison",
+    "translatedText": "風に降伏すれば乗ることができます。"
+  },
+  {
+    "id": 206,
+    "text": "A friend is what the heart needs all the time.",
+    "author": "Henry van Dyke Jr.",
+    "translatedText": "友人は常に心が必要としているものです。"
+  },
+  {
+    "id": 207,
+    "text": "Nature and books belong to the eyes that see them.",
+    "author": "Ralph Waldo Emerson",
+    "translatedText": "自然と本は、それらを見る目に属します。"
+  },
+  {
+    "id": 208,
+    "text": "Leave no stone unturned.",
+    "author": "Euripides",
+    "translatedText": "裏返しの石を残さないでください。"
+  },
+  {
+    "id": 209,
+    "text": "Trouble is only opportunity in work clothes.",
+    "author": "Henry J. Kaiser",
+    "translatedText": "トラブルは作業服の機会だけです。"
+  },
+  {
+    "id": 210,
+    "text": "Anticipate the difficult by managing the easy.",
+    "author": "Laozi",
+    "translatedText": "簡単なことを管理することで難しいことを予測します。"
+  },
+  {
+    "id": 211,
+    "text": "A friend to all is a friend to none.",
+    "author": "Aristotle",
+    "translatedText": "誰にとっても友人は誰にとっても友達です。"
+  },
+  {
+    "id": 212,
+    "text": "No man is free who is not master of himself.",
+    "author": "Epictetus",
+    "translatedText": "自分のマスターではない人はいません。"
+  },
+  {
+    "id": 213,
+    "text": "Do good by stealth, and blush to find it fame.",
+    "author": "Alexander Pope",
+    "translatedText": "ステルスで良いことをして、それが名声を見つけるために赤面してください。"
+  },
+  {
+    "id": 214,
+    "text": "Faith in oneself is the best and safest course.",
+    "author": "Michelangelo",
+    "translatedText": "自分自身への信仰は最高で最も安全なコースです。"
+  },
+  {
+    "id": 215,
+    "text": "Not engaging in ignorance is wisdom.",
+    "author": "Bodhidharma",
+    "translatedText": "無知に従事しないことは知恵です。"
+  },
+  {
+    "id": 216,
+    "text": "The wisest men follow their own direction.",
+    "author": "Euripides",
+    "translatedText": "最も賢い男性は自分の方向に従っています。"
+  },
+  {
+    "id": 217,
+    "text": "We must not say every mistake is a foolish one.",
+    "author": "Cicero",
+    "translatedText": "すべての間違いが愚かなことだと言ってはなりません。"
+  },
+  {
+    "id": 218,
+    "text": "Wisdom is found only in truth.",
+    "author": "Johann Wolfgang von Goethe",
+    "translatedText": "知恵は真実にのみ見られます。"
+  },
+  {
+    "id": 219,
+    "text": "All know the way; few actually walk it.",
+    "author": "Bodhidharma",
+    "translatedText": "誰もが道を知っています。実際にそれを歩く人はほとんどいません。"
+  }
+]
